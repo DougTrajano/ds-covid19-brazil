@@ -6,3 +6,5 @@ missingno
 tqdm
 IPython
 seaborn
+matplotlib
+sklearn
